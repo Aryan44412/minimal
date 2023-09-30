@@ -1,6 +1,14 @@
-title: Aryan Baruah
+title: <p align="center"> Aryan Baruah </p>
 logo: /assets/img/AB.jpeg
-description: I am working on MEAN Stack. Currenlty learning AI&ML
-show_downloads: true
+
+description:
+  <p align="center">
+  
+  <br>   
+  I am a MEAN stack developer leading AIML.
+  <br>
+  </p>
+
+
 
 theme: jekyll-theme-minimal
